@@ -18,14 +18,14 @@ A Python-based tool for detecting code smells in uploaded Python files using sta
 
 ## Screenshots
 
-### 1. Upload Interface
+### 1. Interface
 ![Upload](1.png)
 
 ### 2. Code Analysis Result
-![Results](./images/2.png)
+![Results](2.png)
 
 ### 3. Report View
-![Report](./images/3.png)
+![Report](3.png)
 
 ### 4. Project Structure
-![Structure](./images/4.png)
+![Structure](4.png)

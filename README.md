@@ -24,8 +24,6 @@ A Python-based tool for detecting code smells in uploaded Python files using sta
 ### 2. Code Analysis Result
 ![Results](2.png)
 
-### 3. Report View
 ![Report](3.png)
 
-### 4. Project Structure
 ![Structure](4.png)
